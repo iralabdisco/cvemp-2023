@@ -1,0 +1,4 @@
+gauss_width: 1.75
+num_points: 10000
+vox_num: 16
+voxel_size: 0.5
