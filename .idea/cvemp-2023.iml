@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/laz_data" />
+      <excludeFolder url="file://$MODULE_DIR$/npz_feature" />
       <excludeFolder url="file://$MODULE_DIR$/pcd_export" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />

@@ -1,8 +1,8 @@
 # Data
 
-laz_data/
-pcd_export/
-npz_feature/
+*.laz
+*.npz
+*.pcd
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
