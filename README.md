@@ -1,7 +1,7 @@
 # CVEMP 2023
 
 Code for the paper _Automatic Alignment of Multi-scale Aerial and Underwater Photogrammetric Point Clouds: a Case Study in the Maldivian Coral Reef_,
-presented at CVEMP 2023.
+submitted at CVEMP 2023.
 
 Code tested with python 3.10. 
 
