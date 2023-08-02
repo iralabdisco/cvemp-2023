@@ -10,6 +10,8 @@ Install the requirements with:
 pip3 install -r requirements.txt
 ```
 
+To extract the features with 3DSmoothNet, please consult the README. inside the `3DSmoothNet` folder.
+
 To run the registration algorithms, adjust the parameters in `registration.py` and run the script.
 
 To obtain the error metrics run `check_gt.py`
