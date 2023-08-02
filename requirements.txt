@@ -1,0 +1,7 @@
+laspy==2.4.1
+matplotlib==3.7.1
+numpy==1.24.3
+open3d==0.17.0
+pcr_utils==0.1
+scikit_learn==1.2.2
+teaserpp_python==1.0.0

@@ -2,6 +2,7 @@
 
 laz_data/
 pcd_export/
+npz_feature/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
