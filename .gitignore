@@ -1,3 +1,8 @@
+# Data
+
+laz_data/
+pcd_export/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
